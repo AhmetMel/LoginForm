@@ -1,3 +1,5 @@
+<h1>Başlık</h1>
+
 Bu basit ama güzel giriş sayfasını sadece biraz HTML ve CSS yazarak oluşturduk.
 
 Bu giriş sayfası ekranda dikey ve yatay olarak ortalandı.
